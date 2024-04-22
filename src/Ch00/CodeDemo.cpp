@@ -1,6 +1,6 @@
 // Learning C++ 
-// Exercise 00_03
-// Using the exercise files on GitHub, by Eduardo Corpeño 
+// Exercise 001
+// Using the exercise files on GitHub, by Vinay Kumar 
 
 #include <iostream>
 
